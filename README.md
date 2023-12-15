@@ -13,12 +13,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
+- 今年是2023年 读研的第一年 希望3年能看到不一样的自己
+
 ⚡ Languages : 
 - Kotlin ✨✨✨✨✨
 - Java ✨✨✨✨
 - Python ✨✨✨✨
 - C++ ✨✨✨
 - JavaScript(node)✨✨
+
 
 
 
